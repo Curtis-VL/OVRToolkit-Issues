@@ -1,4 +1,4 @@
-# OVRToolkit Issue Tracker
+# OVR Toolkit Issue Tracker
 Ahoy there! Welcome to the OVR Toolkit issue tracker.
 
 Here we have dank issue reporting goodness. Got an issue, go to the Issues tab and post away!
